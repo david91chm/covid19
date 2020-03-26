@@ -25,6 +25,9 @@ $this->title = 'Inicio';
 	<!-- ************************* En la oficina ************************* -->
 	<?= $this->render("oficina") ?>
 	
+	<!-- ************************* Cuidados paliativos ************************* -->
+	<?= $this->render("cuidados") ?>
+	
 	<!-- ************************* Documentos ************************* -->
 	<?= $this->render("documentos") ?>
 	
