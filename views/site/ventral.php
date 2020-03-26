@@ -111,7 +111,7 @@
 </button>
 <div class="collapse" id="collapseExample1">
 	<div class="well">
-		<img src="<?= Yii::$app->request->BaseUrl ?>/images/proteccion.JPG" alt="">
+		<img src="<?= Yii::$app->request->BaseUrl ?>/images/proteccion.png" alt="">
 		<p>Fuente: ayudas cognitivas SFAR - Desglose del SDRA (COVID-19)</p>
 	</div>
 </div>
@@ -121,7 +121,7 @@
 </button>
 <div class="collapse" id="collapseExample1">
 	<div class="well">
-		<img src="<?= Yii::$app->request->BaseUrl ?>/images/Cabeza.JPG"  alt="">
+		<img src="<?= Yii::$app->request->BaseUrl ?>/images/Cabeza.png"  alt="">
 		<p>Fuente: ayudas cognitivas SFAR - Desglose del SDRA (COVID-19)</p>
 	</div>
 </div>
@@ -158,7 +158,80 @@
 		<h3>Verificación continua de todo lo 
 		relacionado con el paciente 
 		(Distribución de tareas)</h3>
-		<img src="<?= Yii::$app->request->BaseUrl ?>/images/Darse_cuenta.JPG" alt="">
+		<div class="row">
+			<div class="col-md-4">
+				<p>Paso 1: <br>
+				Colocar en 
+				posición lateral</p>
+			</div>
+			<div class="col-md-4">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/1.png"  alt="">
+			</div>
+			<div class="col-md-4">
+				<ul>
+					<li> Ktc mantenido arriba</li>
+					<li> Pies fuera de la cama</li>
+					<li> piernas cruzadas</li>
+					<li> Mano debajo del muslo</li>
+				</ul>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-4">
+				<p>Paso 2: <br>
+				Decúbito lateral</p>
+			</div>
+			<div class="col-md-4">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/2.png"  alt="">
+			</div>
+			<div class="col-md-4">
+				<ul>
+					<li> Retirar electrodos 
+					  externos</li>
+					<li> Instalación de electrodos 
+					   posteriores.</li>
+					<li> Nueva instalación de 
+					   chapa</li>
+				</ul>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-4">
+				<p>Paso 3: <br>
+				Girando sobre 
+				el estómago</p>
+			</div>
+			<div class="col-md-4">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/3.png"  alt="">
+			</div>
+			<div class="col-md-4">
+				<ul>
+					<li> Mano libre desde abajo</li>
+					<li> Palmas arriba</li>
+					<li> Pulgares hacia adentro</li>
+				</ul>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-4">
+				<p>Paso 4: <br>
+				Reasentamiento 
+				general</p>
+			</div>
+			<div class="col-md-4">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/4.png"  alt="">
+			</div>
+			<div class="col-md-4">
+				<ul>
+				<li> Posición de la cabeza en 
+				  el lado sin hiperextensión</li>
+				<li> Sin compresión ocular</li>
+				<li> Verificación de puntos de 
+				   apoyo</li>
+				 </ul>
+
+			</div>
+		</div>
 
 	</div>
 </div>
