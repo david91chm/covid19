@@ -8,7 +8,7 @@
 <div class="collapse" id="collapseExample">
 	<div class="well listBox">
 		<h3>Respirador</h3>
-		<ul>
+		<ul class="listIconBox">
 			<li>Preajustes del respirador</li>
 			<li>Circuito con filtros listos</li>
 			<li>Canal de laringoscopio</li>
@@ -23,7 +23,7 @@
 			<li>Conexión anillada</li>
 		</ul>
 		<h3>Vestimenta</h3>
-		<ul>
+		<ul class="listIconBox">
 			<li>Charlotte</li>
 			<li>Gafas protectoras</li>
 			<li>Máscara</li>
@@ -31,12 +31,12 @@
 			<li>Guantes</li>
 		</ul>
 		<h3>Inducción</h3>
-		<ul>
+		<ul class="listIconBox">
 			<li>Vía venosa funcional</li>
 			<li>Bandeja de medicamentos (pregunte al reanimador)</li>
 		</ul>
 		<h3>Post intubación</h3>
-		<ul>
+		<ul class="listIconBox">
 			<li>Fijación</li>
 			<li>Capnografía conectada</li>
 			<li>Presión del globo</li>
@@ -72,8 +72,11 @@
 </button>
 <div class="collapse" id="collapseExample1">
 	<div class="well">
+		
+		<div class="text-center">
 		<p>Observa con atención el Tutorial</p>
-		<iframe width="100%" height="315" src="https://www.youtube.com/embed/42-4H3MuoTk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="80%" height="315" src="https://www.youtube.com/embed/42-4H3MuoTk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
 	</div>
 </div>
 
@@ -82,11 +85,12 @@
 </button>
 <div class="collapse" id="collapseExample1">
 	<div class="well">
-		<li> Sedación con propofol: Diprivan® se ofrece en una dosis continua de 1 a 3 mg / kg / h (interacción farmacológica de midazolam con Kaletra)</li>
-		<li> Analgesia con sufentanilo similar a la morfina: Sufenta® se ofrece como una dosis continua a una dosis de 0.1 a 0.5 mcg / kg / h</li>
-		<li> Siempre que sea posible, la profundidad de la sedación debe evaluarse mediante el monitoreo BIS® entre 40 y 60 antes de la curarización.</li>
-		<li> Para pacientes con una relación P / F <150 o que tienen dificultades para adaptarse al ventilador a pesar de la indicación adecuada de sedación para la curación con cisatracurio: dosis de Nimbex® de 0.1 a 0.5 mg / kg / h</li>
-
+		<ul>
+			<li> Sedación con propofol: Diprivan® se ofrece en una dosis continua de 1 a 3 mg / kg / h (interacción farmacológica de midazolam con Kaletra)</li>
+			<li> Analgesia con sufentanilo similar a la morfina: Sufenta® se ofrece como una dosis continua a una dosis de 0.1 a 0.5 mcg / kg / h</li>
+			<li> Siempre que sea posible, la profundidad de la sedación debe evaluarse mediante el monitoreo BIS® entre 40 y 60 antes de la curarización.</li>
+			<li> Para pacientes con una relación P / F <150 o que tienen dificultades para adaptarse al ventilador a pesar de la indicación adecuada de sedación para la curación con cisatracurio: dosis de Nimbex® de 0.1 a 0.5 mg / kg / h</li>
+		</ul>
 		<p>RéaCTVR CHU Protocolo de Amiens</p>
 	</div>
 </div>
@@ -96,7 +100,7 @@
 </button>
 <div class="collapse" id="collapseExample1">
 	<div class="well">
-		<img src="<?= Yii::$app->request->BaseUrl ?>/images/Curva_volumen.JPG" width="100%" alt="">
+		<img src="<?= Yii::$app->request->BaseUrl ?>/images/Curva_volumen.JPG" width="85%" alt="">
 	</div>
 </div>
 
