@@ -7,7 +7,15 @@
 </button>
 <div class="collapse" id="collapseExample">
 	<div class="well">
-		<p>Content 1</p>
+		<h3>En hisopo</h3>
+		<ul>
+			<li> RT-PCR COVID 19 si no se conoce el estado
+			(repetir en D3 dependiendo de la clasificación
+			inicial)</li>
+			<li> Virus de la gripe por PCR / virus respiratorios
+			multiplex</li>
+		</ul>
+		<p>RéaCTVR CHU Protocolo de Amiens </p>
 	</div>
 </div>
 
@@ -16,7 +24,23 @@
 </button>
 <div class="collapse" id="collapseExample1">
 	<div class="well">
-		<p>Content 2</p>
+		<p>¡En el esputo se induce la fibroscopia si se supone
+		que la tolerancia es correcta!</p>
+
+		<p>ECBC para análisis estándar + PCR intracelular +
+		cultivo BCYE.</p>
+		<p>Micología con Pneumocystis PCR + Aspergillus
+		Research.</p>
+		<ul>
+			<li> Serologías de Legionella, micoplasma</li>
+			<li>hemocultivos</li>
+			<li>Orinas: Legial Ag y Pneumococcus</li>
+			<li>Si la intubación durante el tratamiento SIEMPRE
+			repita con un muestreo profundo</li>
+		</ul>
+
+		<p>RéaCTVR CHU Protocolo de Amiens</p>
+
 	</div>
 </div>
 
