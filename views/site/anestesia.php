@@ -22,6 +22,14 @@
 			<li>Jeringa 10ml</li>
 			<li>Conexión anillada</li>
 		</ul>
+		<h3>Respirador</h3>
+		<ul>
+			<li>Charlotte</li>
+			<li>Gafas protectoras</li>
+			<li>Máscara</li>
+			<li>Cubierta de ropa</li>
+			<li>Guantes</li>
+		</ul>
 	</div>
 </div>
 
