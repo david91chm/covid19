@@ -63,7 +63,7 @@
 				<div id="icon-text">Paso 4 - Gafas protectoras</div>
 			</div>
 			<div class="col-md-6">
-				<img src="<?= Yii::$app->request->BaseUrl ?>/images/Layer864.png" alt="">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/Gafas.png" alt="">
 				
 			</div>
 		</div>
@@ -72,7 +72,7 @@
 				<div id="icon-text">Paso 5 - Cubierta de ropa y delantal</div>
 			</div>
 			<div class="col-md-6">
-				<img src="<?= Yii::$app->request->BaseUrl ?>/images/Gafas.png" alt="">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/Layer_866.png" alt="">
 			</div>
 		</div>
 		<div class="row">
@@ -80,7 +80,7 @@
 				<div id="icon-text">Paso 6 - Guantes</div>
 			</div>
 			<div class="col-md-6">
-				<img src="<?= Yii::$app->request->BaseUrl ?>/images/Layer_866.png" alt="">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/Layer866.png" alt="">
 			</div>
 		</div>
 	</div>
@@ -100,46 +100,65 @@
 				<p>En la habilitación</p>
 				<div id="icon-text">Paso 1 - Quitar delantal</div>
 			</div>
-			<div class="col-md-6"></div>
+			<div class="col-md-6">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/Layer_869.png" alt="">
+				
+			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-6">
 				<div id="icon-text">Paso 2 - Quitarse los guantes</div>
 			</div>
-			<div class="col-md-6"></div>
+			<div class="col-md-6">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/Layer-868.png" alt="">
+			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-6">
 				<div id="icon-text">Paso 3 - Fricción hidroalcohólica</div>
 			</div>
-			<div class="col-md-6"></div>
+			<div class="col-md-6">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/Layer864.png" alt="">
+				
+			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-6">
 				<div id="icon-text">Paso 4 - Quitarse ropa de cubierta + delantal</div>
 			</div>
-			<div class="col-md-6"></div>
+			<div class="col-md-6">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/Layer867.png" alt="">
+				
+			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-6">
 				<p>Fuera de la sala, repita paso 3</p>
 				<div id="icon-text">Paso 5 - Quitarse las gafas protectoras</div>
 			</div>
-			<div class="col-md-6"></div>
+			<div class="col-md-6">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/Gafas.png" alt="">
+				
+			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-6">
 				<p>Repita paso 3</p>
 				<div id="icon-text">Paso 6 - Quitar la gorra</div>
 			</div>
-			<div class="col-md-6"></div>
+			<div class="col-md-6">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/Layer_870.png" alt="">
+				
+			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-6">
 				<p>Repita paso 3</p>
 				<div id="icon-text">Paso 7 - Retire la máscara FFP2</div>
 			</div>
-			<div class="col-md-6"></div>
+			<div class="col-md-6">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/Layer_863.png" alt="">
+			</div>
 		</div>
 	</div>
 </div>

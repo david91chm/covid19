@@ -16,7 +16,7 @@
 		</ul>
 		<h3>Gravedad</h3>
 		<p>3 etapas de gravedad definidas dependiendo de la hipoxemia.</p>
-		<img src="<?= Yii::$app->request->BaseUrl ?>/images/no_demora_la_intubacion.JPG" width="100%" alt="">
+		<img src="<?= Yii::$app->request->BaseUrl ?>/images/no_demora_la_intubacion.png"  alt="">
 		<p>Fuente: ayudas cognitivas SFAR - Desglose del SDRA (COVID-19)</p>
 	</div>
 </div>
@@ -226,7 +226,7 @@
 </button>
 <div class="collapse" id="collapseExample1">
 	<div class="well">
-		<img src="<?= Yii::$app->request->BaseUrl ?>/images/Algoritmo_de_destete.JPG" width="100%" alt="">
+		<img src="<?= Yii::$app->request->BaseUrl ?>/images/Algoritmo_de_destete.png"  alt="">
 		
 	</div>
 </div>

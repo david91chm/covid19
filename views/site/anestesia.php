@@ -100,7 +100,9 @@
 </button>
 <div class="collapse" id="collapseExample1">
 	<div class="well">
-		<img src="<?= Yii::$app->request->BaseUrl ?>/images/Curva_volumen.JPG" width="85%" alt="">
+
+		<img src="<?= Yii::$app->request->BaseUrl ?>/images/Curva_volumen.png" alt="">
+
 	</div>
 </div>
 
@@ -128,6 +130,6 @@
 </button>
 <div class="collapse" id="collapseExample1">
 	<div class="well">
-		<img src="<?= Yii::$app->request->BaseUrl ?>/images/ECMO_algoritmo.JPG" width="100%" alt="">
+		<img src="<?= Yii::$app->request->BaseUrl ?>/images/ECMO_algoritmo.png" width="100%" alt="">
 	</div>
 </div>

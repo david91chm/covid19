@@ -111,7 +111,7 @@
 </button>
 <div class="collapse" id="collapseExample1">
 	<div class="well">
-		<img src="<?= Yii::$app->request->BaseUrl ?>/images/proteccion.JPG" width="100%" alt="">
+		<img src="<?= Yii::$app->request->BaseUrl ?>/images/proteccion.JPG" alt="">
 		<p>Fuente: ayudas cognitivas SFAR - Desglose del SDRA (COVID-19)</p>
 	</div>
 </div>
@@ -121,7 +121,7 @@
 </button>
 <div class="collapse" id="collapseExample1">
 	<div class="well">
-		<img src="<?= Yii::$app->request->BaseUrl ?>/images/Cabeza.JPG" width="100%" alt="">
+		<img src="<?= Yii::$app->request->BaseUrl ?>/images/Cabeza.JPG"  alt="">
 		<p>Fuente: ayudas cognitivas SFAR - Desglose del SDRA (COVID-19)</p>
 	</div>
 </div>
@@ -158,7 +158,7 @@
 		<h3>Verificación continua de todo lo 
 		relacionado con el paciente 
 		(Distribución de tareas)</h3>
-		<img src="<?= Yii::$app->request->BaseUrl ?>/images/Darse_cuenta.JPG" width="100%" alt="">
+		<img src="<?= Yii::$app->request->BaseUrl ?>/images/Darse_cuenta.JPG" alt="">
 
 	</div>
 </div>
