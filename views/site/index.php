@@ -22,6 +22,9 @@ $this->title = 'Inicio';
 	<!-- ************************* Clasificación ************************* -->
 	<?= $this->render("clasificacion") ?>
 	
+	<!-- ************************* En la oficina ************************* -->
+	<?= $this->render("oficina") ?>
+	
 	<!-- ************************* Documentos ************************* -->
 	<?= $this->render("documentos") ?>
 	
