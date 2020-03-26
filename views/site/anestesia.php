@@ -49,8 +49,21 @@
 	<span class="glyphicon glyphicon-chevron-right"></span> Evitar la aerosolización
 </button>
 <div class="collapse" id="collapseExample1">
-	<div class="well">
-		<p>Content 2</p>
+	<div class="well listBox">
+		<ul>
+			<li> Protección individual (charlotte, máscara FFP2, guantes, abrigo, anteojos)</li>
+			<li> Evite la NIV o la oxigenoterapia de alto flujo</li>
+			<li> Comience preO2 DESPUÉS de verificar que la máscara no tenga fugas (fuga = aerosolización)</li>
+			<li> Presiones respiratorias limitadas (PAI 10 PEP5) para evitar fugas</li>
+			<li> Inducción de secuencia RÁPIDA</li>
+			<li> Después de la inducción, detenga la ventilación ANTES de quitar la máscara</li>
+			<li> Videolaringoscopio si es posible (permite alejar la cara)</li>
+			<li> Verifique el inflado del globo ANTES de la conexión al ventilador</li>
+			<li> Sistema CLOS + sistema de regulación de presión de globo</li>
+			<li> Si es necesaria la desconexión: pare el ventilador ANTES de la desconexión</li>
+
+			<p>RéaCTVR CHU Protocolo de Amiens</p>
+		</ul>
 	</div>
 </div>
 
