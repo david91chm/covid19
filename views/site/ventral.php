@@ -163,7 +163,6 @@
 		relacionado con el paciente 
 		(Distribución de tareas)</h3>
 		<img src="<?= Yii::$app->request->BaseUrl ?>/images/Darse_cuenta.JPG" width="100%" alt="">
-		
-		<p>Content 2</p>
+
 	</div>
 </div>
