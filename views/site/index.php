@@ -48,6 +48,7 @@ $this->title = 'Inicio';
 	<div class="collapse" id="collapseExample1">
 		<div class="well">
 			<p>Content 2</p>
+			<p>hola mundo</p>
 		</div>
 	</div>
 </div>
