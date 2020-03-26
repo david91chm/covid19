@@ -28,6 +28,12 @@ $this->title = 'Inicio';
 	<!-- ************************* Cuidados paliativos ************************* -->
 	<?= $this->render("cuidados") ?>
 	
+	<!-- ************************* Protegerse ************************* -->
+	<?= $this->render("protegerse") ?>
+	
+	<!-- ************************* Contención del paciente ************************* -->
+	<?= $this->render("contencion") ?>
+	
 	<!-- ************************* Documentos ************************* -->
 	<?= $this->render("documentos") ?>
 	
