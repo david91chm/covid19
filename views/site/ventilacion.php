@@ -9,18 +9,10 @@
 	<div class="well">
 		<h3>Definición</h3>
 		<ul>
-			<li> Insuficiencia respiratoria aguda que evoluciona
-			por menos de una semana.</li>
-			<li>- Opacidades bilaterales en imágenes torácicas
-			(vidrio esmerilado multifocal bilateral,
-			predominantemente periférico, imágenes de
-			neumonía organizada).</li>
-			<li>- Ausencia de argumentos para un edema
-			hidrostático predominante.</li>
-			<li>- Hipoxemia con una relación
-			Pa02 (mmHg) / F102 (0.21 a 1) <300 para una presión
-			conjunto espiratorio positivo (PEEP) a 5 cm H20
-			Etapas de gravedad (criterios de Berlín).</li>
+			<li>Insuficiencia respiratoria aguda que evoluciona por menos de una semana.</li>
+			<li>Opacidades bilaterales en imágenes torácicas (vidrio esmerilado multifocal bilateral, redominantemente periférico, imágenes de neumonía organizada).</li>
+			<li>Ausencia de argumentos para un edema hidrostático predominante.</li>
+			<li>Hipoxemia con una relación Pa02 (mmHg) / F102 (0.21 a 1) <300 para una presión conjunto espiratorio positivo (PEEP) a 5 cm H20 Etapas de gravedad (criterios de Berlín).</li>
 		</ul>
 		<h3>Gravedad</h3>
 		<p>3 etapas de gravedad definidas dependiendo de la hipoxemia.</p>

@@ -6,14 +6,10 @@
 	<span class="glyphicon glyphicon-chevron-right"></span> Prepare el DV - Monitoreo de protección / Sondas
 </button>
 <div class="collapse" id="collapseExample">
-	<div class="well">
+	<div class="well boxText">
 		<div class="row">
 			<div class="col-md-12">
-				<p>IOT 
-				comprobado en la 
-				fijación de radio ++,  
-				fijación, globo inflado
-				30mmHg </p>
+				<p>IOT comprobado en la	fijación de radio ++, fijación, globo inflado 30mmHg </p>
 			</div>
 		</div>
 		<div class="row">
@@ -45,7 +41,7 @@
 	<span class="glyphicon glyphicon-chevron-right"></span> Prepare el DV - Portección del paciente 
 </button>
 <div class="collapse" id="collapseExample1">
-	<div class="well">
+	<div class="well boxText">
 		<div class="row">
 			<div class="col-md-12">
 				<p>rotección ocular: 
@@ -82,7 +78,7 @@
 	<span class="glyphicon glyphicon-chevron-right"></span> Prepare el DV - Material
 </button>
 <div class="collapse" id="collapseExample1">
-	<div class="well">
+	<div class="well boxText">
 		<div class="row">
 			<div class="col-md-12">
 				<p>Fibroscopio Doppler 

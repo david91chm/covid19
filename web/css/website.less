@@ -45,7 +45,14 @@ body {
 	}
 	
 	.well{
-		color: #42b482;
+		color: #1da168;
+		img{
+			max-width:80%;
+			display:block;
+			text-align:center;
+			float: none;
+			margin: auto;
+		}
 	}
 	.listTextImage{
 		.row{
@@ -56,6 +63,47 @@ body {
 					color:#fff;
 					font-weight:bold;
 					padding:15px;
+				}
+			}
+		}
+	}
+		h3{
+			font-weight:bold;
+			font-weight:#167c4e;
+			margin-top:0px;
+		}
+	.listBox{
+		ul{
+			margin-left:-40px;
+			list-style: none;
+		}
+		ul.listIconBox{
+			li{
+				/*position: relative;
+				top: 1px;*/
+				/*display: inline-block;*/
+				
+				/*font-weight: 400;*/
+				/*line-height: 1;*/
+				-webkit-font-smoothing: antialiased;
+				-moz-osx-font-smoothing: grayscale;
+			}
+			li:before {
+				font-family: "Glyphicons Halflings";
+				font-style: normal;
+				content: "\e157";
+				padding-right:10px;
+			}
+		}
+	}
+	.boxText{
+		.row{
+			>div{
+				>p{
+					background-color:#1da168;
+					padding:18px;
+					border-radius:12px;
+					color:#fff;
 				}
 			}
 		}

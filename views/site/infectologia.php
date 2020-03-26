@@ -65,11 +65,7 @@
 			<li>micología con Pneumocystis PCR +
 			investigación de aspergillus</li>
 		</ul>
-		<h3>Serología del lenguaje. micoplasma</h3>
-
-		<h3>hemocultivos</h3>
-
-		<h3>Orinas</h3>
+		<h3>Serología del lenguaje, micoplasma hemocultivos Orinas</h3>
 
 		<p>Legial Ag y Pneumococcus</p>
 
@@ -112,8 +108,8 @@
 	<div class="well">
 		<p>pcovtp-19 + pacientes con SPRA (pa021Fi02> 200)</p>
 		<ul>
-			<ul> Plaqueni10 (hidroxicloroquina): 200mg x 3 / d
-			(espacio de control de ECG QT), 10 días</ul>
+			<li> Plaqueni10 (hidroxicloroquina): 200mg x 3 / d
+			(espacio de control de ECG QT), 10 días</li>
 
 			<li> Kaletra: los últimos datos chinos publicados
 			(Cao B et al. N Engl J Med, 18 de marzo de 2020)
@@ -155,22 +151,25 @@
 			<li> Prezista0 (Darunavir) comprimido 600 mg:
 			1 comprimido x 2 / D</li>
 		</ul>
-		<p>Si el tratamiento con el tubo gástrico</p>
-		
-		<p>- Norvir0 (Ritonavir) 100 mg bolsita diluida:
-		1 bolsita x 21 D</p>
-		<p>- Prezista0 (Darunavir) solución oral: 600 mg x 2 / D</p>
+		<h3>Si el tratamiento con el tubo gástrico</h3>
+		<ul>
+			<li>Norvir0 (Ritonavir) 100 mg bolsita diluida:
+			1 bolsita x 21 D</li>
+			<li>Prezista0 (Darunavir) solución oral: 600 mg x 2 / D</li>
+		</ul>
 
 		<p>Solución oral de cloroquina: 400 mg x2 / d
 		(si no está disponible: Plaqueni10 200mgx3TJ, cps
 		triturado, con riesgo de intolerancia digestiva)</p>
 
-		<p>- Solicitud de Remdesivir: 200 mg en dosis de
+		<ul>
+		<li>Solicitud de Remdesivir: 200 mg en dosis de
 		carga Jl, luego 100 mg 1 dosis por día en infusión
 		30-60 min: Duración del tratamiento 10 días,
 		combinada con cloroquina 400mgx2 / d o
 		Plaqueni10. Para
-		el Kaletra</p>
+		el Kaletra</li>
+		</ul>
 
 		<p>En ningún caso son recomendaciones, sino una
 		guía práctica para quienes estén considerando
@@ -197,11 +196,13 @@
 		<p>Problemas digestivos, diarrea.</p>
 
 		<p>Riesgo de interacciones farmacológicas +++:</p>
-		<p>-inhibidores del citocromo 450:
+		<ul>
+		<li>Inhibidores del citocromo 450:
 		riesgo de sobredosis de todos los medicamentos
 		asociados metabolizados por Ie
 		citocromo hepático (amiodarona, alfabloqueantes,
-		colchicina, estatinas ...)</p>
+		colchicina, estatinas ...)</li>
+		</ul>
 
 		<p>Posibilidad de bradicardia bajo Kaletra,
 		especialmente si los tratamientos de bradicardia
