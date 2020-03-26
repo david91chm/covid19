@@ -21,6 +21,10 @@
 			<li>Sistema de conexión de sonda</li>
 			<li>Jeringa 10ml</li>
 			<li>Conexión anillada</li>
+			<li>Conexión anillada</li>
+			<li>Conexión anillada</li>
+			<li>Conexión anillada</li>
+			<li>Conexión anillada</li>
 		</ul>
 	</div>
 </div>
