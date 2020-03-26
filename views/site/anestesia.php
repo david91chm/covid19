@@ -72,7 +72,8 @@
 </button>
 <div class="collapse" id="collapseExample1">
 	<div class="well">
-		<p>Content 2</p>
+		<p>Observa con atención el Tutorial</p>
+		<iframe width="100%" height="315" src="https://www.youtube.com/embed/42-4H3MuoTk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 </div>
 
@@ -81,7 +82,12 @@
 </button>
 <div class="collapse" id="collapseExample1">
 	<div class="well">
-		<p>Content 2</p>
+		<li> Sedación con propofol: Diprivan® se ofrece en una dosis continua de 1 a 3 mg / kg / h (interacción farmacológica de midazolam con Kaletra)</li>
+		<li> Analgesia con sufentanilo similar a la morfina: Sufenta® se ofrece como una dosis continua a una dosis de 0.1 a 0.5 mcg / kg / h</li>
+		<li> Siempre que sea posible, la profundidad de la sedación debe evaluarse mediante el monitoreo BIS® entre 40 y 60 antes de la curarización.</li>
+		<li> Para pacientes con una relación P / F <150 o que tienen dificultades para adaptarse al ventilador a pesar de la indicación adecuada de sedación para la curación con cisatracurio: dosis de Nimbex® de 0.1 a 0.5 mg / kg / h</li>
+
+		<p>RéaCTVR CHU Protocolo de Amiens</p>
 	</div>
 </div>
 
@@ -90,16 +96,17 @@
 </button>
 <div class="collapse" id="collapseExample1">
 	<div class="well">
-		<p>Content 2</p>
+		<img src="<?= Yii::$app->request->BaseUrl ?>/images/Curva_volumen.JPG" width="100%" alt="">
 	</div>
 </div>
 
 <button class="btn myButton" type="button">
-	<span class="glyphicon glyphicon-chevron-right"></span> ECMO - Recomendaciones
+	<span class="glyphicon glyphicon-chevron-right"></span> ECMO - Recomendaciones generales
 </button>
 <div class="collapse" id="collapseExample1">
 	<div class="well">
-		<p>Content 2</p>
+		<p>La ECMO veno-venosa en caso de SDRA grave debe analizarse si: P / F <IOO mmHg durante más de 3 horas - Ventilación mecánica difícil debido al aumento de la presión de la meseta (> 30 cmH20) a pesar de la optimización ajustes del ventilador y recurrir a la posición prono. No hay espacio para ECC02R en la estrategia de manejo para estos pacientes o para cualquier otra indicación hasta nuevo aviso. Fuente: SRLF - think tank sobre el uso de ECMO para pacientes con COVID</p>
+		
 	</div>
 </div>
 
@@ -108,7 +115,7 @@
 </button>
 <div class="collapse" id="collapseExample1">
 	<div class="well">
-		<p>Content 2</p>
+		<p>Contraindicaciones Edad> 70 años - Comorbilidades severas (por ejemplo, EPOC con 02 hogares, cirrosis avanzada (niño B / C), insuficiencia cardíaca avanzada ... - Inmunosupresión severa (es decir, cáncer hematológico, VIH no controlado, cáncer sólido en progreso) Los pacientes con trasplante de órganos sólidos se analizarán caso por caso y no se excluirán a priori ACR (excepto en presencia de un testigo y MCE inmediato y bajo flujo <15 minutos) Duración de VM antes de ECMO de más de 10 días Presencia de fallas multiorgánicas NB: Limitación de la cantidad de centros que se encargarán de pacientes "COVID plus" bajo ECLS / ECMO para ARDS</p>
 	</div>
 </div>
 
@@ -117,6 +124,6 @@
 </button>
 <div class="collapse" id="collapseExample1">
 	<div class="well">
-		<p>Content 2</p>
+		<img src="<?= Yii::$app->request->BaseUrl ?>/images/ECMO_algoritmo.JPG" width="100%" alt="">
 	</div>
 </div>
