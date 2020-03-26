@@ -87,10 +87,12 @@
 		250mg: 2 tabletas el primer día, luego
 		1 tableta / día (5 días)</p>
 
-		<p>- Si no hay disponibilidad de Plaquenil: reemplazar
+		<ul>
+		<li>Si no hay disponibilidad de Plaquenil: reemplazar
 		con cloroquina (Nivaquina0): 400mgx2 / d +
 		Azitromicina 250mg: 2 tabletas el primer día,
-		luego 1 tableta / día (5 días)</p>
+		luego 1 tableta / día (5 días)</li>
+		</ul>
 
 		<p>En ningún caso son recomendaciones, sino una
 		guía práctica para quienes estén considerando
@@ -240,12 +242,12 @@
 
 		<p>Términos (ver fuente vinculada)</p>
 
-		<p>interferón Y (IMUKIN). la dosis es de 100 ug148 H
+		<p><h3 style="display: inline-block; margin:0px;">Interferón Y (IMUKIN).</h3> la dosis es de 100 ug148 H
 		por vía subcutánea durante 10 días
 		tenga en cuenta, la posibilidad de combinar la
 		terapia con corticosteroides y FNL</p>
 
-		<p>Otro inmunomodulador</p>
+		<h3>Otro inmunomodulador</h3>
 
 		<p>Varias moléculas están bajo investigación en un
 		ensayo clínico y no deberían no se considerará

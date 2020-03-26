@@ -6,14 +6,14 @@
 	<span class="glyphicon glyphicon-chevron-right"></span> Códigos de color
 </button>
 <div class="collapse" id="collapseExample">
-	<div class="well">
-		<p>La señalización se colocará frente a la puerta de cada paciente con:</p>
-		<ul>
-			<li> COVID confirmado (Rojo) COVID +</li>
-			<li> COVID fuerte sospecha (Azul)</li>
-			<li> COVID débil sospecha (Verde)
-			RéaCTVR protocolo CHU Amiens</li>
+	<div class="well listBox">
+		<h3>La señalización se colocará frente a la puerta de cada paciente con:</h3>
+		<ul class="listIconBoxAll">
+			<li style="color:#f00;"> COVID confirmado (Rojo) COVID +</li>
+			<li style="color:#0072bc;"> COVID fuerte sospecha (Azul)</li>
+			<li style="color:#1da168;"> COVID débil sospecha (Verde)</li>
 		</ul>
+		<p>RéaCTVR protocolo CHU Amiens</p>
 	</div>
 </div>
 
@@ -22,7 +22,7 @@
 </button>
 <div class="collapse" id="collapseExample1">
 	<div class="well">
-		<p>Paciente confirmado (rojo) COVID +</p>
+		<p style="color:#f00;">Paciente confirmado (rojo) COVID +</p>
 		<p>Tratamiento con aislamiento máximo "Aire, gotitas, contacto"</p>
 
 		<p>Equipo: (ver Procedimiento para vestirse / desvestirse)</p>
@@ -38,10 +38,10 @@
 		<p>Habitación:</p>
 		<ul>
 			<li> Gestión de residuos con circuito especializado</li>
-			<li> Puertas cerradas</li>
-			<li> Ventilación de la habitación 10 min / d abriendo la ventana, puerta cerrada
-			Protocolo RéaCTVR CHU Amiens</li>
+			<li style="color:#f00;"> Puertas cerradas</li>
+			<li style="color:#f00;"> Ventilación de la habitación 10 min / d abriendo la ventana, puerta cerrada</li>
 		</ul>
+		<p>Protocolo RéaCTVR CHU Amiens</p>
 	</div>
 </div>
 
@@ -50,14 +50,14 @@
 </button>
 <div class="collapse" id="collapseExample">
 	<div class="well">
-		<p>Paciente con fuerte sospecha (Azul):</p>
+		<p style="color:#0072bc;">Paciente con fuerte sospecha (Azul):</p>
 		<p>Cualquier paciente con una tabla de neumonitis alveolointersticial febril bilateral sin encontrar otra causa:</p>
 		<ul>
-			<li> Se toma una muestra por RT-PCR (hisopo nasofaríngeo y / o profundo)</li>
-			<li> Medidas máximas aplicar siempre (ver COVID +)</li>
-			<li> Realizar una segunda muestra en D 3 (hisopo nasofaríngeo y / o profundo) - Si es positivo -> Se convierte en un paciente confirmado COVID +</li>
+			<li>Se toma una muestra por RT-PCR (hisopo nasofaríngeo y / o profundo)</li>
+			<li>Medidas máximas aplicar siempre (ver <span style="color:#f00;">COVID +</span>)</li>
+			<li>Realizar una segunda muestra en D 3 (hisopo nasofaríngeo y / o profundo) - Si es positivo -> Se convierte en un <span style="color:#f00;">paciente confirmado COVID +</span></li>
+			<li>Si es negativo -> Medidas de luz con el uso de una máscara quirúrgico solo considere la transferencia a un área de baja carga viral</li>
 		</ul>
-		<p>- Si es negativo -> Medidas de luz con el uso de una máscara quirúrgico solo considere la transferencia a un área de baja carga viral</p>
 		<p>RéaCTVR Protocol CHU Amiens</p>
 	</div>
 </div>
@@ -71,7 +71,7 @@
 		<p>Cualquier paciente con signos de descompensación respiratoria hipoxémica o hipercapnica en un contexto febril, sin una imagen típica.</p>
 		<p> Se realiza una muestra viral tomada por RT-PCR en la entrada (hisopo nasofaríngeo y / o profundo)</p>
 		<ul>
-			<li> Si el resultado positivo se confirma al paciente COVID+</li>
+			<li> Si el resultado positivo se confirma al <span style="color:#f00;">paciente COVID+</span></li>
 			<li> Si es negativo -> Medidas de luz con el uso de la máscara quirúrgica solo, considere la transferencia a un área de baja carga viral</li>
 		</ul>
 		<p>RéaCTVR CHU Protocolo de Amiens</p>

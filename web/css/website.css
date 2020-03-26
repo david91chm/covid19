@@ -82,6 +82,17 @@ body {
   content: "\e157";
   padding-right: 10px;
 }
+.site-index .listBox ul.listIconBoxAll li {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.site-index .listBox ul.listIconBoxAll li:before {
+  font-family: "Glyphicons Halflings";
+  font-style: normal;
+  content: "\e074";
+  padding-right: 10px;
+  font-size: 20px;
+}
 .site-index .boxText .row > div > p {
   background-color: #1da168;
   padding: 18px;
