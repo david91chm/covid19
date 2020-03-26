@@ -37,37 +37,51 @@
 			<div class="col-md-6">
 				<div id="icon-text">Paso 1 - Gorra</div>
 			</div>
-			<div class="col-md-6"></div>
+			<div class="col-md-6 ">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/Gorro.png" alt="">
+			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-6">
 				<div id="icon-text">Paso 2 - Máscara FFP2 (verifique si hay fugas)</div>
 			</div>
-			<div class="col-md-6"></div>
+			<div class="col-md-6">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/Layer_863.png" alt="">
+				
+			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-6">
 				<div id="icon-text">Paso 3 - Fricción hidroalcohólica</div>
 			</div>
-			<div class="col-md-6"></div>
+			<div class="col-md-6">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/Layer864.png" alt="">
+			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-6">
 				<div id="icon-text">Paso 4 - Gafas protectoras</div>
 			</div>
-			<div class="col-md-6"></div>
+			<div class="col-md-6">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/Layer864.png" alt="">
+				
+			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-6">
 				<div id="icon-text">Paso 5 - Cubierta de ropa y delantal</div>
 			</div>
-			<div class="col-md-6"></div>
+			<div class="col-md-6">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/Gafas.png" alt="">
+			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-6">
 				<div id="icon-text">Paso 6 - Guantes</div>
 			</div>
-			<div class="col-md-6"></div>
+			<div class="col-md-6">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/Layer_866.png" alt="">
+			</div>
 		</div>
 	</div>
 </div>
