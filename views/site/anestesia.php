@@ -11,6 +11,16 @@
 		<ul>
 			<li>Preajustes del respirador</li>
 			<li>Circuito con filtros listos</li>
+			<li>Canal de laringoscopio</li>
+			<li>Hoja de laringoscopio adaptada</li>
+			<li>Sonda de intubación traqueal</li>
+			<li>Videolaringoscopio si está disponible</li>
+			<li>BAVU</li>
+			<li>Sistema de succión con sonda lista para la cabeza</li>
+			<li>Manómetro</li>
+			<li>Sistema de conexión de sonda</li>
+			<li>Jeringa 10ml</li>
+			<li>Conexión anillada</li>
 		</ul>
 	</div>
 </div>
