@@ -1,3 +1,8 @@
+<style>
+	.b1{
+		white-space: normal !important;
+	}
+</style>
 <div class="page-header">
 	<h1>Protegerse</h1>
 </div>
@@ -47,7 +52,7 @@
 		</div>
 	</div>
 </div>
-<button class="btn myButton" type="button">
+<button class="b1 btn myButton" type="button">
 	<span class="glyphicon glyphicon-chevron-right"></span> Eliminación de residuos peligrosos
 COVID-19
 </button>

@@ -50,8 +50,8 @@ AppAsset::register ( $this );
 <div class="wrap">
 		<div class="container">
 			<div class="page-header titleMain">
-				<?= Html::img(Yii::$app->request->baseUrl."/images/covid-19.png", ["style"=>"width:130px;"]) ?>
-				<h1>COVID-19<br><small>Mejores Prácticas para Doctores</small></h1>
+				<?= Html::img(Yii::$app->request->baseUrl."/images/covid-19.png", ["style"=>"width:120px;"]) ?>
+				<h1>COVID-19<br><small>Mejores Prácticas Doctores</small></h1>
 				<p></p>
 			</div>
 		</div>
@@ -66,7 +66,7 @@ AppAsset::register ( $this );
 		<footer class="footer">
 			<div class="container">
 				<p class="pull-left">
-				<?= Html::img(Yii::$app->request->baseUrl."/images/Bannner2019D.jpg", ["style"=>"width:;"]) ?>
+				<?= Html::img(Yii::$app->request->baseUrl."/images/Bannner2019D.jpg", ["style"=>"width:130px;"]) ?>
 		</p>
 
 			<p class="pull-right">

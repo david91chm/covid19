@@ -2,7 +2,7 @@
 	<h1>Infectología</h1>
 </div>
 
-<button class="btn myButton" type="button">
+<button class="b1 btn myButton" type="button">
 	<span class="glyphicon glyphicon-chevron-right"></span> Muestras de pacientes no intubados (torunda)
 </button>
 <div class="collapse" id="collapseExample">
@@ -19,7 +19,7 @@
 	</div>
 </div>
 
-<button class="btn myButton" type="button">
+<button class="b1 btn myButton" type="button">
 	<span class="glyphicon glyphicon-chevron-right"></span> Muestras de pacientes no intubados (esputo/fibroscopia)
 </button>
 <div class="collapse" id="collapseExample1">

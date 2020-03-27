@@ -1,3 +1,8 @@
+<style>
+	.b1{
+		white-space: normal !important;
+	}
+</style>
 <div class="page-header">
 	<h1>Contención del paciente</h1>
 </div>

@@ -1,6 +1,11 @@
 <?php
 use yii\helpers\Html;
 ?>
+<style>
+	.b1{
+		white-space: normal !important;
+	}
+</style>
 <div class="page-header">
 	<h1>Cuidados paliativos</h1>
 </div>
@@ -25,7 +30,7 @@ use yii\helpers\Html;
 	</div>
 </div>
 
-<button class="btn myButton" type="button">
+<button class="b1 btn myButton" type="button">
 	<span class="glyphicon glyphicon-chevron-right"></span> Recomendaciones	del personal de enfermería
 </button>
 <div class="collapse" id="collapseExample">

@@ -2,7 +2,7 @@
 	<h1>Decúbito ventral</h1>
 </div>
 
-<button class="btn myButton" type="button">
+<button class="b1 btn myButton" type="button">
 	<span class="glyphicon glyphicon-chevron-right"></span> Prepare el DV - Monitoreo de protección / Sondas
 </button>
 <div class="collapse" id="collapseExample">
