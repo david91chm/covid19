@@ -56,9 +56,13 @@ AppAsset::register ( $this );
 			</div>
 		</div>
 		<div class="container">
-		<h4 class="color">Agradecimiento especial: Philippe Forestello por su importante ayuda en la traducción al español de vídeos</h4>
+		
         <?= $content ?>
+		<br />
+		<h4 class="color">Agradecimiento especial: Philippe Forestello por su importante ayuda en la traducción al español de vídeos</h4>
+		<br />
     	</div>
+		
 		<footer class="footer">
 			<div class="container">
 				<p class="pull-left">
