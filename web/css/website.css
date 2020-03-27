@@ -1,3 +1,11 @@
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: url("../fonts/Montserrat-Bold.ttf");
+}
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: url("../fonts/Montserrat-Regular.ttf");
+}
 html,
 body {
   min-height: 100%;
@@ -15,6 +23,25 @@ body {
 .wrap > .container-fluid {
   padding-right: 0px;
   padding-left: 0px;
+}
+.titleMain {
+  font-family: Montserrat-Bold;
+  color: #fff;
+  font-weight: bold;
+  margin-top: 25px;
+  padding-left: 15px;
+}
+.titleMain h1 {
+  font-size: 55px;
+  margin-bottom: 0px;
+  display: inline-grid;
+}
+.titleMain h1 small {
+  font-size: 15px;
+  color: #fff;
+}
+.site-index {
+  font-family: Montserrat-Regular;
 }
 .site-index .page-header {
   background-color: #157b4e;
@@ -121,4 +148,10 @@ body {
   border-bottom: 20px solid transparent;
   /*margin: 13px 0 0 -25px;*/
   margin: -10px 0 0 0px;
+}
+.footer {
+  height: 60px;
+  background-color: #f5f5f5;
+  border-top: 1px solid #ddd;
+  padding-top: 20px;
 }

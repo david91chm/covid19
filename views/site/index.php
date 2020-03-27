@@ -40,7 +40,7 @@ $this->title = 'Inicio';
 	<!-- ************************* Bibliografia ************************* -->
 	<?= $this->render("bibliografia") ?>
 	
-	<!-- ************************* Content Secction ************************* -->
+	<!-- ************************* Content Secction ************************* 
 	<div class="page-header">
 		<h1>Header 1</h1>
 	</div>
@@ -62,5 +62,5 @@ $this->title = 'Inicio';
 			<p>Content 2</p>
 			<p>hola mundo</p>
 		</div>
-	</div>
+	</div>-->
 </div>
