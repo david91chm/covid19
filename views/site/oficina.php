@@ -114,7 +114,7 @@
 	</div>
 </div>
 
-<button class="btn myButton" type="button">
+<button class="b1 btn myButton" type="button">
 	<span class="glyphicon glyphicon-chevron-right"></span> Duración del paro laboral y caso de contacto en caso de Covid-19 + NUEVO
 </button>
 <div class="collapse" id="collapseExample">

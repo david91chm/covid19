@@ -94,7 +94,7 @@ COVID-19
 		</div>
 	</div>
 </div>
-<button class="btn myButton" type="button">
+<button class="b1 btn myButton" type="button">
 	<span class="glyphicon glyphicon-chevron-right"></span> Muestreo a realizar en casa de un
 paciente posible o confirmado Covid-19
 </button>

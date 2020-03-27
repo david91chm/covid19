@@ -23,12 +23,20 @@ AppAsset::register ( $this );
     <?php $this->head() ?>
 </head>
 <style>
-
+	.b1{
+		white-space: normal !important;
+	}
 	@media screen and (min-width:1200px){
 	 	.page-header h1{
 			text-align:center;
 		}                      
 
+	}
+	@media screen and (max-width:600px){
+		.page-header h1{
+			font-weight: normal !important;
+			font-size:20px;
+		} 
 	}
 </style>
 <body>
@@ -36,25 +44,25 @@ AppAsset::register ( $this );
 <?php $this->beginBody() ?>
 
 <div class="wrap">
-		<div class="container-fluid">
+		<div class="container">
 			<div class="page-header titleMain">
 				<?= Html::img(Yii::$app->request->baseUrl."/images/covid-19.png", ["style"=>"width:130px;"]) ?>
 				<h1>COVID-19<br><small>Mejores Prácticas para Doctores</small></h1>
 				<p></p>
 			</div>
 		</div>
-		<div class="container-fluid">
+		<div class="container">
         <?= $content ?>
     	</div>
 		<footer class="footer">
-			<div class="container-fluid">
+			<div class="container">
 				<p class="pull-left">
 				<?= Html::img(Yii::$app->request->baseUrl."/images/Bannner2019D.jpg", ["style"=>"width:;"]) ?>
 		</p>
 
 			<p class="pull-right">
 				Desarrollado y diseñado por <a href="https://conectica.bo"
-					target="_blank">Conéctica</a>
+					target="_blank"><img src="<?= Yii::$app->request->BaseUrl ?>/images/conectica.png" width="130px" alt=""></a>
 			</p>
 		</div>
 	</footer>

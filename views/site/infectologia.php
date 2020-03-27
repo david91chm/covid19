@@ -74,7 +74,7 @@
 	</div>
 </div>
 
-<button class="btn myButton" type="button">
+<button class="b1 btn myButton" type="button">
 	<span class="glyphicon glyphicon-chevron-right"></span> Propuesta para ayudar con las operaciones terapéuticas: pacientes con COVID-19 + hospitalizados que requieren oxígeno
 </button>
 <div class="collapse" id="collapseExample1">
@@ -103,7 +103,7 @@
 	</div>
 </div>
 
-<button class="btn myButton" type="button">
+<button class="b1 btn myButton" type="button">
 	<span class="glyphicon glyphicon-chevron-right"></span> Ayuda para opciones terapéuticas: pacientes con COVID-19 + hospitalizados con SDRA leve
 </button>
 <div class="collapse" id="collapseExample1">
@@ -136,7 +136,7 @@
 	</div>
 </div>
 
-<button class="btn myButton" type="button">
+<button class="b1 btn myButton" type="button">
 	<span class="glyphicon glyphicon-chevron-right"></span> Ayuda para opciones terapéuticas: pacientes con COVID-19 + hospitalizados con SDRA moderado y grave
 </button>
 <div class="collapse" id="collapseExample1">
@@ -181,7 +181,7 @@
 	</div>
 </div>
 
-<button class="btn myButton" type="button">
+<button class="b1 btn myButton" type="button">
 	<span class="glyphicon glyphicon-chevron-right"></span> Propuesta de ayuda con opciones terapéuticas - Precauciones terapéuticas
 </button>
 <div class="collapse" id="collapseExample1">
@@ -224,7 +224,7 @@
 	</div>
 </div>
 
-<button class="btn myButton" type="button">
+<button class="b1 btn myButton" type="button">
 	<span class="glyphicon glyphicon-chevron-right"></span> Ayuda para opciones terapéuticas - Enfoque inmunomodulador
 </button>
 <div class="collapse" id="collapseExample1">
