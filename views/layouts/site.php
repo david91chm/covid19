@@ -26,6 +26,10 @@ AppAsset::register ( $this );
 	.b1{
 		white-space: normal !important;
 	}
+	.color{
+		color:#fff;
+		text-align:center;
+	}
 	@media screen and (min-width:1200px){
 	 	.page-header h1{
 			text-align:center;
@@ -52,6 +56,7 @@ AppAsset::register ( $this );
 			</div>
 		</div>
 		<div class="container">
+		<h4 class="color">Agradecimiento especial: Philippe Forestello por su importante ayuda en la traducción al español de vídeos</h4>
         <?= $content ?>
     	</div>
 		<footer class="footer">
