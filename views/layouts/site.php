@@ -22,7 +22,17 @@ AppAsset::register ( $this );
     <title><?= Html::encode($this->title) ?></title>
     <?php $this->head() ?>
 </head>
+<style>
+
+	@media screen and (min-width:1200px){
+	 	.page-header h1{
+			text-align:center;
+		}                      
+
+	}
+</style>
 <body>
+
 <?php $this->beginBody() ?>
 
 <div class="wrap">
