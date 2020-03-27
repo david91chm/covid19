@@ -40,7 +40,9 @@
 				<p>Fuente: URPS Enfermeras de Normandía</p>
 			</div>
 			<div class="col-md-2 col-sm-2 col-xs-2">
-				<img src="<?= Yii::$app->request->BaseUrl ?>/images/iconos.JPG" width="100%" alt="">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/icon1.png" alt="">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/icon2.png" alt="">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/icon3.png" alt="">
 			</div>
 		</div>
 	</div>
@@ -60,7 +62,8 @@ COVID-19
 				</ul>
 			</div>
 			<div class="col-md-2 col-sm-2 col-xs-2">
-				<img src="<?= Yii::$app->request->BaseUrl ?>/images/iconos2.JPG" width="100%" alt="">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/icon3.png" alt="">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/icon4.png" alt="">
 			</div>
 		</div>
 	</div>
@@ -85,7 +88,8 @@ COVID-19
 				<p>Fuente: URPS Enfermeras Normandia</p>
 			</div>
 			<div class="col-md-2 col-sm-2 col-xs-2">
-				<img src="<?= Yii::$app->request->BaseUrl ?>/images/iconos2.JPG" width="100%" alt="">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/icon3.png" alt="">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/icon4.png" alt="">
 			</div>
 		</div>
 	</div>
@@ -110,7 +114,8 @@ paciente posible o confirmado Covid-19
 				<p>Fuente: URPS Enfermeras Normandia</p>
 			</div>
 			<div class="col-md-2 col-sm-2 col-xs-2">
-				<img src="<?= Yii::$app->request->BaseUrl ?>/images/iconos3.JPG" width="100%" alt="">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/icon5.png"  alt="">
+				<img src="<?= Yii::$app->request->BaseUrl ?>/images/icon6.png" alt="">
 			</div>
 		</div>
 	</div>
@@ -120,6 +125,6 @@ paciente posible o confirmado Covid-19
 </button>
 <div class="collapse" id="collapseExample">
 	<div class="well">
-		<img src="<?= Yii::$app->request->BaseUrl ?>/images/vida_util.JPG" width="100%" alt="">
+		<img src="<?= Yii::$app->request->BaseUrl ?>/images/vida_util.png" alt="">
 	</div>
 </div>

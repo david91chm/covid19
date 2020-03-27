@@ -105,7 +105,7 @@
 </button>
 <div class="collapse" id="collapseExample">
 	<div class="well">
-		<img src="<?= Yii::$app->request->BaseUrl ?>/images/URPS.JPG" width="100%" alt="">
+		<img src="<?= Yii::$app->request->BaseUrl ?>/images/URPS.png" width="100%" alt="">
 		<p>Fuente: URPS Hauts-de-France</p>
 	</div>
 </div>
@@ -114,7 +114,7 @@
 </button>
 <div class="collapse" id="collapseExample">
 	<div class="well">
-		<img src="<?= Yii::$app->request->BaseUrl ?>/images/resumen_URPS.JPG" width="100%" alt="">
+		<img src="<?= Yii::$app->request->BaseUrl ?>/images/resumen_URPS.png" width="100%" alt="">
 		<p>Fuente: URPS Hauts-de-France</p>
 	</div>
 </div>
