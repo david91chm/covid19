@@ -91,7 +91,7 @@
 	</div>
 </div>
 
-<button class="btn myButton" type="button">
+<!--button class="btn myButton" type="button">
 	<span class="glyphicon glyphicon-chevron-right"></span> Paro laboral
 </button>
 <div class="collapse" id="collapseExample">
@@ -112,9 +112,9 @@
 			<li>Una investigación es llevada a cabo sistemáticamente por los médicos del ARS en casos de contacto</li>
 		</ul>
 	</div>
-</div>
+</div-->
 
-<button class="b1 btn myButton" type="button">
+<!--button class="b1 btn myButton" type="button">
 	<span class="glyphicon glyphicon-chevron-right"></span> Duración del paro laboral y caso de contacto en caso de Covid-19 + NUEVO
 </button>
 <div class="collapse" id="collapseExample">
@@ -136,5 +136,5 @@
 			<li>Una investigación es llevada a cabo sistemáticamente por los médicos del ARS en casos de contacto</li>
 		</ul>
 	</div>
-</div>
+</div-->
 
