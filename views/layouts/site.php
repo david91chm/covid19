@@ -55,11 +55,31 @@ AppAsset::register ( $this );
 				<h1>COVID-19<br><small>Mejores Prácticas Doctores</small></h1>
 				<p></p>
 			</div>
+			<nav class="navbar navbar-default">
+			  <div class="container-fluid">
+				<div class="navbar-header">
+				  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				  </button>
+				  <a class="navbar-brand" href="#">MENU</a>
+				</div>
+				<div class="collapse navbar-collapse" id="myNavbar">
+				  <ul class="nav navbar-nav navbar-right">
+					<li class="active"><a href="<?= Yii::$app->request->BaseUrl ?>/images/GUIA_COVID-19.pdf" target="_blank">A. GUÍA Y LINEAMIENTOS DE MANEJO COVID -19  ULTIMA REVISION ABRIL/2020</a></li>
+					<li><a href="<?= Yii::$app->request->BaseUrl ?>/images/PROTOCOLO_MANEJO_Y_DISPOSICION_DE_CADAVERES.pdf" target="_blank">B.PROCEDIMIENTO PARA EL MANEJO Y DISPOSICIÓN DE CADÁVERES DE CASOS DE COVID-19 </a></li>
+				  </ul>
+				  
+				</div>
+			  </div>
+			</nav>
 		</div>
 		<div class="container">
 		
         <?= $content ?>
 		<br />
+
 		<h4 class="color">Agradecimiento especial: Philippe Forestello por su importante ayuda en la traducción al español de vídeos</h4>
 		<br />
     	</div>
