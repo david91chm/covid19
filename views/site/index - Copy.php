@@ -22,15 +22,43 @@ $this->title = 'Inicio';
 	<!-- ************************* Diagnostico ************************* -->
 	<?= $this->render("diagnostico") ?>	
 	
-	<!-- ************************* Diagnostico ************************* -->
-	<?= $this->render("vigilancia") ?>	
-	
 	<!-- ************************* Manejo ************************* -->
 	<?= $this->render("manejo") ?>
 	
 	
 	
 	
+	
+	
+	<!-- ************************* Ventilación ************************* -->
+	<?= $this->render("ventilacion") ?>
+	
+	<!-- ************************* Decúbito ventral ************************* -->
+	<?= $this->render("ventral") ?>
+	
+	<!-- ************************* Infectología ************************* -->
+	<?= $this->render("infectologia") ?>
+	
+	<!-- ************************* Clasificación ************************* -->
+	<?= $this->render("clasificacion") ?>
+	
+	<!-- ************************* En la oficina ************************* -->
+	<?= $this->render("oficina") ?>
+	
+	<!-- ************************* Cuidados paliativos ************************* -->
+	<?= $this->render("cuidados") ?>
+	
+	<!-- ************************* Protegerse ************************* -->
+	<?= $this->render("protegerse") ?>
+	
+	<!-- ************************* Contención del paciente ************************* -->
+	<?= $this->render("contencion") ?>
+	
+	<!-- ************************* Documentos ************************* -->
+	<?= $this->render("documentos") ?>
+	
+	<!-- ************************* Bibliografia ************************* -->
+	<?= $this->render("bibliografia") ?>
 	
 	<!-- ************************* Content Secction ************************* 
 	<div class="page-header">

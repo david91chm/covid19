@@ -3,7 +3,7 @@
 </div>
 
 <button class="btn myButton" type="button">
-	<span class="glyphicon glyphicon-chevron-right"></span> Manifestaciones generales y respiratorias 
+	<span class="b1 glyphicon glyphicon-chevron-right"></span> Manifestaciones generales y respiratorias 
 </button>
 <div class="collapse" id="collapseExample">
 	<div class="well listBox">
@@ -15,7 +15,7 @@
 	</div>
 </div>
 
-<button class="btn myButton" type="button">
+<button class="b1 btn myButton" type="button">
 	<span class="glyphicon glyphicon-chevron-right"></span> Manifestaciones extrapulmonares 
 </button>
 <div class="collapse" id="collapseExample1">
@@ -30,7 +30,7 @@
 	</div>
 </div>
 
-<button class="btn myButton" type="button">
+<button class="b1 btn myButton" type="button">
 	<span class="glyphicon glyphicon-chevron-right"></span> Períodos de incubación y presentación de los síntomas 
 </button>
 <div class="collapse" id="collapseExample1">
@@ -49,7 +49,7 @@
 	</div>
 </div>
 
-<button class="btn myButton" type="button">
+<button class="b1 btn myButton" type="button">
 	<span class="glyphicon glyphicon-chevron-right"></span> Clasificación clínica en base a la patogenia de la enfermedad 
 </button>
 <div class="collapse" id="collapseExample1">
@@ -74,7 +74,7 @@
 	</div>
 </div>
 
-<button class="btn myButton" type="button">
+<button class="b1 btn myButton" type="button">
 	<span class="glyphicon glyphicon-chevron-right"></span> Clasificación clínica en base a la severidad de la enfermedad 
 </button>
 <div class="collapse" id="collapseExample1">
@@ -95,7 +95,7 @@
 	</div>
 </div>
 
-<button class="btn myButton" type="button">
+<button class="b1 btn myButton" type="button">
 	<span class="glyphicon glyphicon-chevron-right"></span> Síndrome de distress respiratorio agudo (sdra)
 </button>
 <div class="collapse" id="collapseExample1">
